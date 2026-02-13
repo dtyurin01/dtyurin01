@@ -1,3 +1,17 @@
+<div align="center">
+
+# Dmytro Tiurin
+
+### Fullstack Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dtyurin01/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dtyurin01@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dtyurin02)
+
+</div>
+
+---
+
 ## 🧑‍💻 About Me
 
 Computer Science student passionate about building full-stack web applications using **ASP.NET Core**, **Next.js**, and **PostgreSQL**. Focused on building backend APIs and modern frontend interfaces with **TypeScript**, **React**, and **TailwindCSS**.
@@ -60,13 +74,3 @@ Computer Science student passionate about building full-stack web applications u
 
 - 🇬🇧 English — Upper Intermediate
 - 🇩🇪 German — Advanced
-
-<div align="center">
-
-📫 **Let's connect!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dtyurin01/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dtyurin01@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dtyurin02)
-
-</div>
