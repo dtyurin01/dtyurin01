@@ -1,6 +1,5 @@
 <div align="center">
 
-
 ### Fullstack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dtyurin01/)
@@ -66,6 +65,12 @@ Computer Science student passionate about building full-stack web applications u
 | [PocketPulse](https://github.com/dtyurin01/expense-tracker) | Personal Finance Tracker                             | Next.js · ASP.NET Core · PostgreSQL · Docker    |
 | [Star Jewellery](https://github.com/Limeeww/Star_Jewellery) | E-Commerce Jewelry Store                             | Next.js · Firebase · Stripe · TailwindCSS       |
 | EcoClean (university project)                               | Industrial Cleaning System Dashboard · 7-person team | React · FastAPI · MariaDB · Docker · WebSockets |
+
+---
+
+## 📜 Certificates
+
+- 🍎 [**App Development with Swift**](./certificates/Dmytro%20Tiurin-1.pdf) — Apple Authorised Training · FH Aachen _(July 2025)_
 
 ---
 
