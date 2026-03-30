@@ -70,4 +70,4 @@ Currently working as a Software Developer at smartVita.
 - 🇩🇪 German — C1
 - 🇬🇧 English — B2
 - 🇺🇦 Ukrainian — Native
-- 🇷🇺 Russian — Native
+- Russian — Native
